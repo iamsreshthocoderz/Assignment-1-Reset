@@ -176,6 +176,8 @@
     padding: 15px 40px;
     color: #fff;
     background: #f00;
+    cursor: pointer;
+    
 }
 /* Join Now Section End */
 
@@ -458,6 +460,7 @@
     font-family: Inter, serif;
     font-size: 16px;
     font-weight: 500;
+    cursor: pointer;
 }
 /* Newsletter Section End */
 
